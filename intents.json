@@ -1,0 +1,16 @@
+{
+  "intents": 
+  [
+    {
+     "tag": "greeting", 
+     "patterns": ["hi! there", "hello! how was your day?", "hey! ola", "hey! dear"],
+     "responses": ["hello! thanks for asking", "having a good day", "how are you?", "happy to see you back again"]
+    },
+
+    {
+      "tag": "goodbye", 
+      "patterns": ["bye! then", "fine! have a nice day", "happy to talk you", "see yaa"],
+      "responses": ["bye, thanks for talking", "me too feeling good", "yupp! byee", "see you back soon"]
+    }
+  ]
+}
